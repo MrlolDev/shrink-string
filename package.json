@@ -3,9 +3,9 @@
   "description": "Tiny string compression module for Node.",
   "version": "3.0.12",
   "author": {
-    "email": "zac@zacanger.com",
-    "name": "Zac Anger",
-    "url": "https://zacanger.com"
+    "email": "mrloldev@proton.me",
+    "name": "MrlolDev",
+    "url": "https://loickteam.org"
   },
   "funding": {
     "type": "ko-fi",
@@ -20,18 +20,19 @@
     "test:lint": "standard",
     "test:tape": "node index.test.js"
   },
-  "homepage": "https://github.com/zacanger/shrink-string#readme",
+  "homepage": "https://github.com/MrlolDev/shrink-string#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zacanger/shrink-string.git"
+    "url": "https://github.com/MrlolDev/shrink-string.git"
   },
-  "bugs": "https://github.com/zacanger/shrink-string/issues",
+  "bugs": "https://github.com/MrlolDev/shrink-string/issues",
   "keywords": [
     "base64",
     "compress",
     "compression",
     "gzip",
-    "string"
+    "string",
+    "typescript"
   ],
   "devDependencies": {
     "@types/node": "18.11.9",
@@ -41,6 +42,6 @@
     "typescript": "4.8.4"
   },
   "engines": {
-    "node": ">=10.0.0"
+    "node": ">=16.0.0"
   }
 }
